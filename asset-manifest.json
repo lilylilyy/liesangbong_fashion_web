@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.js": "/liesangbong_highschoolfashion/static/js/main.ff2cadde.js",
+    "main.js": "/liesangbong_highschoolfashion/static/js/main.523df0df.js",
     "static/media/main _video.mp4": "/liesangbong_highschoolfashion/static/media/main _video.ff101e95cbde0377d445.mp4",
     "static/media/main.png": "/liesangbong_highschoolfashion/static/media/main.b3eb7c50c1803577184f.png",
     "static/media/models2.png": "/liesangbong_highschoolfashion/static/media/models2.718804713029f3980da2.png",
@@ -48,9 +48,9 @@
     "static/media/people5.png": "/liesangbong_highschoolfashion/static/media/people5.26c5787a269a70df8d4d.png",
     "static/media/people2_11.png": "/liesangbong_highschoolfashion/static/media/people2_11.35d9eb6ad971ebeeaa6e.png",
     "index.html": "/liesangbong_highschoolfashion/index.html",
-    "main.ff2cadde.js.map": "/liesangbong_highschoolfashion/static/js/main.ff2cadde.js.map"
+    "main.523df0df.js.map": "/liesangbong_highschoolfashion/static/js/main.523df0df.js.map"
   },
   "entrypoints": [
-    "static/js/main.ff2cadde.js"
+    "static/js/main.523df0df.js"
   ]
 }
